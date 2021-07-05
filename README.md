@@ -7,7 +7,7 @@ Muitos me conhecem através do Facebook, onde mantenho minha página literária
 chamada [Mundo Quebrado](https://www.facebook.com/C.MundoQuebradoOficial) , onde eu publico novidades sobre meu livro de Ficção do mesmo nome.
 Sou dono também de um canal no [YouTube](https://www.youtube.com/channel/UCPV8vvrBUnOwmXemD3e30dA) que em breve terá mais uma atenção minha, prometo, hehe. Tudo está sendo preparado!
 
-- 📩 Fale comigo pelo meu [EMAIL](www.danielgs@hotmail.com);
+- 📩 Fale comigo pelo meu [EMAIL](mailto:www.danielgs@hotmail.com);
 - 🔷 Ou se preferir, contate-me pelo meu [Linkedin](https://www.linkedin.com/in/danielgdsouza/);
 - 💻 Desenvolvedor Front-End;
 - 🇯🇵🇺🇸 Autodidata em japonês e Inglês;
