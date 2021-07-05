@@ -1,4 +1,4 @@
-### Sejam bem vindos(as) ao meu GitHub!🌃💻
+### Sejam bem vindos(as) ao meu GitHub!💻
 
 Eu me chamo Daniel, mas você pode me chamar de ダニエル, Dani ou Vincent (meu outro nome. 🖤)
 Atualmente eu curso uma graduação em Análise e Desenvolvimento de Sistemas, e me desenvolvo no HTML, CSS e JS.
@@ -14,5 +14,4 @@ Sou dono também de um canal no [YouTube](https://www.youtube.com/channel/UCPV8v
 - 🖤 Apaixonado por Paçoca;
 - ☄ 19 anos;
 - ♠ Desenvolvedor, estudante, escritor, desenhista iniciante, e um apaixonado pela cor preta!
-
 # Evoluindo mais a cada dia! 🖤🤍
