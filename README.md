@@ -9,5 +9,5 @@ Eu me chamo Daniel, mas você pode me chamar de ダニエル, Dani ou Vincent (m
 - 💻 Desenvolvedor Front-End;
 - 🇯🇵🇺🇸 Autodidata em japonês e Inglês;
 - 🖤 Apaixonado por Paçoca;
-- ♠ Desenvolvedor Web, escritor, desenhista e um apaixonado pela cor preta!
+- ♠ Desenvolvedor Web, escritor, desenhista e um amante da cor preta!
 #### Evoluindo mais a cada dia! 🖤🤍
